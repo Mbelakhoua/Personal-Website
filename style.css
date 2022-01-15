@@ -7,7 +7,7 @@ body{
   }
   .box{
     width: 30%;
-    background: rgba(0, 0, 0, 0.6);
+    background: rgba(0, 0, 0, 0.4);
     padding: 25px;
     text-align: center;
     margin: auto;
@@ -15,7 +15,7 @@ body{
     color: white;
     font-family: 'Italics',sans-serif;
     border-radius: 10px;
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.6);
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.4);
     text-align: center;
     
   }
