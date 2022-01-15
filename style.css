@@ -11,7 +11,7 @@ body{
     padding: 25px;
     text-align: center;
     margin: auto;
-    margin-top: 5%;
+    margin-top: 7%;
     color: white;
     font-family: 'Italics',sans-serif;
     border-radius: 10px;
@@ -21,7 +21,7 @@ body{
   }
   .box-img{
       margin-top: 20px;
-    border-radius: 25%;
+    border-radius: 20%;
     width: 300px;
     height: 300px;
     
